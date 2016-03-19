@@ -8,4 +8,4 @@
 
 -LK showed ML the table from Wednesday's meeting.
 -ML has no idea what it means and try to make sense out of the table [here][simulation]
-[simulation]:https://rawgit.com/mli2830/mli_sims/multivariate.html 
+[simulation]:https://rawgit.com/mli2830/mli_sims/master/multivariate.html 
