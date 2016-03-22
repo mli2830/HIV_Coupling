@@ -30,9 +30,9 @@ include stuff.mk
 ## Change this name to download a new version of the makestuff directory
 # Makefile: start.makestuff
 
-
 -include $(ms)/git.mk
 -include $(ms)/visual.mk
+-include $(ms)/pandoc.mk
 
 -include $(ms)/wrapR.mk
 # -include $(ms)/oldlatex.mk
